@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(167, 218, 244);
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 40px;
+    margin-right: 10px;
+}
